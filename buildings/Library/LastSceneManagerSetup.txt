@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/joshl/Documents/OOP/Assignment2/OOPAssignment2-UNITY/assignmentPart1/Assets/terrain.unity
+  isLoaded: 1
+  isActive: 1
