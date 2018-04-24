@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/target.unity
+- path: C:/Users/joshl/Documents/OOP/Assignment2/OOPAssignment2-UNITY/playArea/Assets/terrainPart2.unity
   isLoaded: 1
   isActive: 1
